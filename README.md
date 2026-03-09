@@ -18,7 +18,7 @@ This project is a GenAI application that answers questions related to retail dat
 1. Install libraries  
 pip install -r requirements.txt
 
-2. Add your OpenAI API key in .env
+2. Add your OpenRouter API key in .env
 
 3. Run the app  
 python main.py
