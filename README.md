@@ -5,7 +5,7 @@ This project is a GenAI application that answers questions related to retail dat
 ## Technologies Used
 - Python (3.10.8)
 - LangChain
-- OpenAI
+- OpenRouter API
 - Streamlit
 - ChromaDB
 
@@ -22,3 +22,7 @@ pip install -r requirements.txt
 
 3. Run the app  
 python main.py
+
+## Project Demo
+
+![Demo](project_demo.png)
